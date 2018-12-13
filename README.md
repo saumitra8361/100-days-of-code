@@ -1,6 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
-
-# #100daysofcode concentrating on blockchain tech and its related technology stack
+## #100daysofcode concentrating on blockchain tech and its related technology stack
 
 First of all thanks to @ka11away for #100DaysOfCode.
 
