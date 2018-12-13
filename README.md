@@ -1,16 +1,24 @@
 # I've joined the #100DaysOfCode Challenge
 
+# #100daysofcode concentrating on blockchain tech and its related technology stack
+
+First of all thanks to @ka11away for #100DaysOfCode.
+
+# My Rules for doing #100daysofcode:
+•	Code daily and must check-in the code.
+•	Never increase my counter if hours of code is less than 1-2 hours. Some way or the other it should be related to Blockchain.
+•	Quality code should be the focus, don’t increase the counter if not satisfied.
+
+# Progress Review:
+•	Perform review of progress in every 20 days.
+
+
 ## Contents
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-
-## Translations
-[বাংলা](intl/bn/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
 ## If you've decided to join:
 
