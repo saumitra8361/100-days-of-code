@@ -1,13 +1,13 @@
-## #100daysofcode concentrating on blockchain tech and its related technology stack
+# #100daysofcode concentrating on blockchain tech and its related technology stack
 
 First of all thanks to @ka11away for #100DaysOfCode.
 
-# My Rules for doing #100daysofcode:
+## My Rules for doing #100daysofcode:
 •	Code daily and must check-in the code.
 •	Never increase my counter if hours of code is less than 1-2 hours. Some way or the other it should be related to Blockchain.
 •	Quality code should be the focus, don’t increase the counter if not satisfied.
 
-# Progress Review:
+## Progress Review:
 •	Perform review of progress in every 20 days.
 
 
